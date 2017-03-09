@@ -32,7 +32,7 @@ if (typeof jQuery === 'undefined') {
          $('.res').css('top', $('.axis').position().top + 130 + 'px' );
     });
  });
- // axis 클래스(상단 nav바)의 기준을 axis로 잡아 버튼을 떠오르지 않게 한다.
+ // axis 클래스(상단 nav바)를 기준으로 잡아 res class 버튼을 떠오르지 않게 한다.
 
 /*End of Custom JS for this page*/
 
